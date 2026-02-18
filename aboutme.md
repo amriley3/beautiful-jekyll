@@ -1,16 +1,16 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: Professional, Educational and Personal Interests
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+My name is Abigail Riley and I recently graduated from Arizona State University with a Justice Studies B.S., and a minor and certificate in Workplace Communication. In my free time I like to:
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+- Read (pretty much anything but I especially enjoy historical fiction)
+- Hike through Arizona's vast trails
+- Go to concerts
+- Travel
 
-What else do you need?
+### My Professional and Educational Ambitions
 
-### My story
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+I joined the PEDA program as a way to gain more techincal experience to prepare for work in Human Resources. I am fortunate enough to have received an internship opportunity with a remote technology start-up that both allows and encourages me to continue to my educational journey. While I currently work in the HR Operations department of my company, my goal is to eventually work in HR analytics, with the help of the skills I've learned throughout this program.
