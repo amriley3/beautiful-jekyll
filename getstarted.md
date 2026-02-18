@@ -35,11 +35,11 @@ Add pages, change layouts, and apply CSS styling to customize your website.
 }
 
 .gs-section-02 h3 {
-  color: #4A7BD1;
+  color: #6495ED;
 }
 
 .gs-section-03 h3 {
-  color: #2F6F4F;
+  color: #6495ED;
 }
 
 .gs-section-01,
